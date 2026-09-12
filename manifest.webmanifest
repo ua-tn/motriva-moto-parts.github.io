@@ -1,0 +1,9 @@
+{
+  "name": "MOTRIVA Moto Parts",
+  "short_name": "MOTRIVA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#070809",
+  "background_color": "#070809",
+  "icons": []
+}
