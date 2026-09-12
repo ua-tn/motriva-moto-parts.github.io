@@ -4,979 +4,1607 @@
     "name": "Oil Filter High Flow",
     "category": "Engine Parts",
     "price": 24.99,
-    "image": "assets/images/prod-2.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA oil filter high flow selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 90
+    "reviews": 90,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01000"
   },
   {
     "id": 1,
     "name": "Air Filter Performance",
     "category": "Engine Parts",
     "price": 39.99,
-    "image": "assets/images/prod-2.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA air filter performance selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 101
+    "reviews": 101,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01001"
   },
   {
     "id": 2,
     "name": "Spark Plug Iridium",
     "category": "Engine Parts",
     "price": 18.99,
-    "image": "assets/images/prod-2.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA spark plug iridium selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 112
+    "reviews": 112,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01002"
   },
   {
     "id": 3,
     "name": "Fuel Filter",
     "category": "Engine Parts",
     "price": 22.99,
-    "image": "assets/images/prod-2.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA fuel filter selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.8,
-    "reviews": 123
+    "reviews": 123,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01003"
   },
   {
     "id": 4,
     "name": "Radiator Hose Kit",
     "category": "Engine Parts",
     "price": 49.99,
-    "image": "assets/images/prod-2.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA radiator hose kit selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.9,
-    "reviews": 134
+    "reviews": 134,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01004"
   },
   {
     "id": 5,
     "name": "Clutch Cable",
     "category": "Engine Parts",
     "price": 29.99,
-    "image": "assets/images/prod-2.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA clutch cable selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 145
+    "reviews": 145,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01005"
   },
   {
     "id": 6,
     "name": "Engine Guard",
     "category": "Engine Parts",
     "price": 119.99,
-    "image": "assets/images/prod-2.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA engine guard selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 156
+    "reviews": 156,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01006"
   },
   {
     "id": 7,
     "name": "Performance Intake Kit",
     "category": "Engine Parts",
     "price": 199.99,
-    "image": "assets/images/prod-2.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA performance intake kit selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 167
+    "reviews": 167,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01007"
   },
   {
     "id": 8,
     "name": "Front Brake Pads",
     "category": "Brake Systems",
     "price": 59.99,
-    "image": "assets/images/cat-brakes.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA front brake pads selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.8,
-    "reviews": 178
+    "reviews": 178,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01008"
   },
   {
     "id": 9,
     "name": "Rear Brake Pads",
     "category": "Brake Systems",
     "price": 49.99,
-    "image": "assets/images/cat-brakes.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA rear brake pads selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.9,
-    "reviews": 189
+    "reviews": 189,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01009"
   },
   {
     "id": 10,
     "name": "Brake Rotor 320mm",
     "category": "Brake Systems",
     "price": 149.99,
-    "image": "assets/images/cat-brakes.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA brake rotor 320mm selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 200
+    "reviews": 200,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01010"
   },
   {
     "id": 11,
     "name": "Brake Line Kit",
     "category": "Brake Systems",
     "price": 89.99,
-    "image": "assets/images/cat-brakes.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA brake line kit selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 211
+    "reviews": 211,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01011"
   },
   {
     "id": 12,
     "name": "Master Cylinder",
     "category": "Brake Systems",
     "price": 179.99,
-    "image": "assets/images/cat-brakes.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA master cylinder selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 222
+    "reviews": 222,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01012"
   },
   {
     "id": 13,
     "name": "Caliper Rebuild Kit",
     "category": "Brake Systems",
     "price": 44.99,
-    "image": "assets/images/cat-brakes.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA caliper rebuild kit selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.8,
-    "reviews": 233
+    "reviews": 233,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01013"
   },
   {
     "id": 14,
     "name": "Brake Lever",
     "category": "Brake Systems",
     "price": 39.99,
-    "image": "assets/images/cat-brakes.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA brake lever selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.9,
-    "reviews": 244
+    "reviews": 244,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01014"
   },
   {
     "id": 15,
     "name": "Performance Rotor Pair",
     "category": "Brake Systems",
     "price": 279.99,
-    "image": "assets/images/cat-brakes.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA performance rotor pair selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 255
+    "reviews": 255,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01015"
   },
   {
     "id": 16,
     "name": "Adjustable Rear Shock",
     "category": "Suspension",
     "price": 899.99,
-    "image": "assets/images/cat-suspension.jpg",
+    "image": "assets/images/pro-suspension.jpg",
     "description": "MOTRIVA adjustable rear shock selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 266
+    "reviews": 266,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01016"
   },
   {
     "id": 17,
     "name": "Fork Seal Kit",
     "category": "Suspension",
     "price": 39.99,
-    "image": "assets/images/cat-suspension.jpg",
+    "image": "assets/images/pro-suspension.jpg",
     "description": "MOTRIVA fork seal kit selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 277
+    "reviews": 277,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01017"
   },
   {
     "id": 18,
     "name": "Fork Spring Set",
     "category": "Suspension",
     "price": 149.99,
-    "image": "assets/images/cat-suspension.jpg",
+    "image": "assets/images/pro-suspension.jpg",
     "description": "MOTRIVA fork spring set selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.8,
-    "reviews": 288
+    "reviews": 288,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01018"
   },
   {
     "id": 19,
     "name": "Rear Shock Mount",
     "category": "Suspension",
     "price": 79.99,
-    "image": "assets/images/cat-suspension.jpg",
+    "image": "assets/images/pro-suspension.jpg",
     "description": "MOTRIVA rear shock mount selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.9,
-    "reviews": 299
+    "reviews": 299,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01019"
   },
   {
     "id": 20,
     "name": "Steering Damper",
     "category": "Suspension",
     "price": 299.99,
-    "image": "assets/images/cat-suspension.jpg",
+    "image": "assets/images/pro-suspension.jpg",
     "description": "MOTRIVA steering damper selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 310
+    "reviews": 310,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01020"
   },
   {
     "id": 21,
     "name": "Fork Cartridge Kit",
     "category": "Suspension",
     "price": 749.99,
-    "image": "assets/images/cat-suspension.jpg",
+    "image": "assets/images/pro-suspension.jpg",
     "description": "MOTRIVA fork cartridge kit selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 321
+    "reviews": 321,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01021"
   },
   {
     "id": 22,
     "name": "Suspension Linkage",
     "category": "Suspension",
     "price": 199.99,
-    "image": "assets/images/cat-suspension.jpg",
+    "image": "assets/images/pro-suspension.jpg",
     "description": "MOTRIVA suspension linkage selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 332
+    "reviews": 332,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01022"
   },
   {
     "id": 23,
     "name": "Slip-On Exhaust",
     "category": "Exhaust Systems",
     "price": 699.99,
-    "image": "assets/images/prod-1.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA slip-on exhaust selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.8,
-    "reviews": 343
+    "reviews": 343,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01023"
   },
   {
     "id": 24,
     "name": "Full Exhaust System",
     "category": "Exhaust Systems",
     "price": 1299.99,
-    "image": "assets/images/prod-1.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA full exhaust system selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.9,
-    "reviews": 354
+    "reviews": 354,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01024"
   },
   {
     "id": 25,
     "name": "Performance Muffler",
     "category": "Exhaust Systems",
     "price": 399.99,
-    "image": "assets/images/prod-1.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA performance muffler selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 365
+    "reviews": 365,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01025"
   },
   {
     "id": 26,
     "name": "Header Pipe",
     "category": "Exhaust Systems",
     "price": 349.99,
-    "image": "assets/images/prod-1.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA header pipe selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 376
+    "reviews": 376,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01026"
   },
   {
     "id": 27,
     "name": "Exhaust Heat Shield",
     "category": "Exhaust Systems",
     "price": 89.99,
-    "image": "assets/images/prod-1.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA exhaust heat shield selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 387
+    "reviews": 387,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01027"
   },
   {
     "id": 28,
     "name": "Exhaust Spring Kit",
     "category": "Exhaust Systems",
     "price": 19.99,
-    "image": "assets/images/prod-1.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA exhaust spring kit selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.8,
-    "reviews": 398
+    "reviews": 398,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01028"
   },
   {
     "id": 29,
     "name": "520 Chain & Sprocket Kit",
     "category": "Chains & Sprockets",
     "price": 129.99,
-    "image": "assets/images/cat-chain.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA 520 chain & sprocket kit selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.9,
-    "reviews": 409
+    "reviews": 409,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01029"
   },
   {
     "id": 30,
     "name": "525 Chain Kit",
     "category": "Chains & Sprockets",
     "price": 149.99,
-    "image": "assets/images/cat-chain.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA 525 chain kit selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 420
+    "reviews": 420,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01030"
   },
   {
     "id": 31,
     "name": "Front Sprocket 15T",
     "category": "Chains & Sprockets",
     "price": 29.99,
-    "image": "assets/images/cat-chain.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA front sprocket 15t selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 431
+    "reviews": 431,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01031"
   },
   {
     "id": 32,
     "name": "Rear Sprocket 45T",
     "category": "Chains & Sprockets",
     "price": 54.99,
-    "image": "assets/images/cat-chain.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA rear sprocket 45t selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 442
+    "reviews": 442,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01032"
   },
   {
     "id": 33,
     "name": "Heavy Duty Chain",
     "category": "Chains & Sprockets",
     "price": 119.99,
-    "image": "assets/images/cat-chain.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA heavy duty chain selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.8,
-    "reviews": 453
+    "reviews": 453,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01033"
   },
   {
     "id": 34,
     "name": "Chain Tensioner",
     "category": "Chains & Sprockets",
     "price": 79.99,
-    "image": "assets/images/cat-chain.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA chain tensioner selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.9,
-    "reviews": 464
+    "reviews": 464,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01034"
   },
   {
     "id": 35,
     "name": "LED Headlight",
     "category": "Electrical & Lighting",
     "price": 119.99,
-    "image": "assets/images/cat-electrical.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA led headlight selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 475
+    "reviews": 475,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01035"
   },
   {
     "id": 36,
     "name": "LED Turn Signal Set",
     "category": "Electrical & Lighting",
     "price": 69.99,
-    "image": "assets/images/cat-electrical.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA led turn signal set selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 486
+    "reviews": 486,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01036"
   },
   {
     "id": 37,
     "name": "Tail Light LED",
     "category": "Electrical & Lighting",
     "price": 79.99,
-    "image": "assets/images/cat-electrical.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA tail light led selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 497
+    "reviews": 497,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01037"
   },
   {
     "id": 38,
     "name": "Lithium Motorcycle Battery",
     "category": "Electrical & Lighting",
     "price": 159.99,
-    "image": "assets/images/cat-electrical.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA lithium motorcycle battery selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.8,
-    "reviews": 508
+    "reviews": 508,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01038"
   },
   {
     "id": 39,
     "name": "USB Charging Module",
     "category": "Electrical & Lighting",
     "price": 34.99,
-    "image": "assets/images/cat-electrical.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA usb charging module selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.9,
-    "reviews": 519
+    "reviews": 519,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01039"
   },
   {
     "id": 40,
     "name": "Relay & Fuse Kit",
     "category": "Electrical & Lighting",
     "price": 29.99,
-    "image": "assets/images/cat-electrical.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA relay & fuse kit selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 530
+    "reviews": 530,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01040"
   },
   {
     "id": 41,
     "name": "Handlebar Switch",
     "category": "Electrical & Lighting",
     "price": 49.99,
-    "image": "assets/images/cat-electrical.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA handlebar switch selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 541
+    "reviews": 541,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01041"
   },
   {
     "id": 42,
     "name": "Aluminum Handlebar",
     "category": "Controls & Handlebars",
     "price": 109.99,
-    "image": "assets/images/cat-controls.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA aluminum handlebar selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 552
+    "reviews": 552,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01042"
   },
   {
     "id": 43,
     "name": "Clip-On Handlebar Set",
     "category": "Controls & Handlebars",
     "price": 189.99,
-    "image": "assets/images/cat-controls.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA clip-on handlebar set selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.8,
-    "reviews": 563
+    "reviews": 563,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01043"
   },
   {
     "id": 44,
     "name": "Brake Lever Set",
     "category": "Controls & Handlebars",
     "price": 69.99,
-    "image": "assets/images/cat-controls.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA brake lever set selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.9,
-    "reviews": 574
+    "reviews": 574,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01044"
   },
   {
     "id": 45,
     "name": "Clutch Lever",
     "category": "Controls & Handlebars",
     "price": 39.99,
-    "image": "assets/images/cat-controls.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA clutch lever selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 585
+    "reviews": 585,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01045"
   },
   {
     "id": 46,
     "name": "Lock-On Grips",
     "category": "Controls & Handlebars",
     "price": 29.99,
-    "image": "assets/images/cat-controls.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA lock-on grips selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 596
+    "reviews": 596,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01046"
   },
   {
     "id": 47,
     "name": "Bar-End Weights",
     "category": "Controls & Handlebars",
     "price": 39.99,
-    "image": "assets/images/cat-controls.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA bar-end weights selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 607
+    "reviews": 607,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01047"
   },
   {
     "id": 48,
     "name": "Adjustable Rearsets",
     "category": "Controls & Handlebars",
     "price": 249.99,
-    "image": "assets/images/cat-controls.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA adjustable rearsets selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.8,
-    "reviews": 618
+    "reviews": 618,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01048"
   },
   {
     "id": 49,
     "name": "Sport Touring Front Tire",
     "category": "Wheels & Tires",
     "price": 159.99,
-    "image": "assets/images/cat-wheels.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA sport touring front tire selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.9,
-    "reviews": 629
+    "reviews": 629,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01049"
   },
   {
     "id": 50,
     "name": "Sport Touring Rear Tire",
     "category": "Wheels & Tires",
     "price": 199.99,
-    "image": "assets/images/cat-wheels.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA sport touring rear tire selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 640
+    "reviews": 640,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01050"
   },
   {
     "id": 51,
     "name": "Street Rear Tire",
     "category": "Wheels & Tires",
     "price": 179.99,
-    "image": "assets/images/cat-wheels.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA street rear tire selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 651
+    "reviews": 651,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01051"
   },
   {
     "id": 52,
     "name": "All-Season Front Tire",
     "category": "Wheels & Tires",
     "price": 139.99,
-    "image": "assets/images/cat-wheels.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA all-season front tire selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 662
+    "reviews": 662,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01052"
   },
   {
     "id": 53,
     "name": "Tubeless Valve Kit",
     "category": "Wheels & Tires",
     "price": 24.99,
-    "image": "assets/images/cat-wheels.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA tubeless valve kit selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.8,
-    "reviews": 673
+    "reviews": 673,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01053"
   },
   {
     "id": 54,
     "name": "Wheel Bearing Kit",
     "category": "Wheels & Tires",
     "price": 44.99,
-    "image": "assets/images/cat-wheels.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA wheel bearing kit selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.9,
-    "reviews": 684
+    "reviews": 684,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01054"
   },
   {
     "id": 55,
     "name": "Sportbike Fairing Kit",
     "category": "Body & Fairings",
     "price": 699.99,
-    "image": "assets/images/cat-fairings.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA sportbike fairing kit selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 695
+    "reviews": 695,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01055"
   },
   {
     "id": 56,
     "name": "Front Fender",
     "category": "Body & Fairings",
     "price": 129.99,
-    "image": "assets/images/cat-fairings.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA front fender selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 706
+    "reviews": 706,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01056"
   },
   {
     "id": 57,
     "name": "Tail Section",
     "category": "Body & Fairings",
     "price": 189.99,
-    "image": "assets/images/cat-fairings.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA tail section selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 717
+    "reviews": 717,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01057"
   },
   {
     "id": 58,
     "name": "Windshield",
     "category": "Body & Fairings",
     "price": 119.99,
-    "image": "assets/images/cat-fairings.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA windshield selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.8,
-    "reviews": 728
+    "reviews": 728,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01058"
   },
   {
     "id": 59,
     "name": "Carbon Look Side Panels",
     "category": "Body & Fairings",
     "price": 249.99,
-    "image": "assets/images/cat-fairings.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA carbon look side panels selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.9,
-    "reviews": 739
+    "reviews": 739,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01059"
   },
   {
     "id": 60,
     "name": "Frame Sliders",
     "category": "Body & Fairings",
     "price": 149.99,
-    "image": "assets/images/cat-fairings.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA frame sliders selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 750
+    "reviews": 750,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01060"
   },
   {
     "id": 61,
     "name": "Tank Pads",
     "category": "Body & Fairings",
     "price": 39.99,
-    "image": "assets/images/cat-fairings.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA tank pads selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 761
+    "reviews": 761,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01061"
   },
   {
     "id": 62,
     "name": "Touring Seat",
     "category": "Seats & Comfort",
     "price": 299.99,
-    "image": "assets/images/cat-seats.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA touring seat selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 772
+    "reviews": 772,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01062"
   },
   {
     "id": 63,
     "name": "Comfort Rider Seat",
     "category": "Seats & Comfort",
     "price": 259.99,
-    "image": "assets/images/cat-seats.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA comfort rider seat selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.8,
-    "reviews": 783
+    "reviews": 783,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01063"
   },
   {
     "id": 64,
     "name": "Passenger Seat Pad",
     "category": "Seats & Comfort",
     "price": 129.99,
-    "image": "assets/images/cat-seats.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA passenger seat pad selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.9,
-    "reviews": 794
+    "reviews": 794,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01064"
   },
   {
     "id": 65,
     "name": "Seat Cover Kit",
     "category": "Seats & Comfort",
     "price": 79.99,
-    "image": "assets/images/cat-seats.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA seat cover kit selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 805
+    "reviews": 805,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01065"
   },
   {
     "id": 66,
     "name": "Gel Seat Insert",
     "category": "Seats & Comfort",
     "price": 99.99,
-    "image": "assets/images/cat-seats.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA gel seat insert selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 816
+    "reviews": 816,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01066"
   },
   {
     "id": 67,
     "name": "Hard Side Case Set",
     "category": "Luggage & Storage",
     "price": 499.99,
-    "image": "assets/images/cat-luggage.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA hard side case set selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 827
+    "reviews": 827,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01067"
   },
   {
     "id": 68,
     "name": "Top Case 45L",
     "category": "Luggage & Storage",
     "price": 299.99,
-    "image": "assets/images/cat-luggage.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA top case 45l selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.8,
-    "reviews": 838
+    "reviews": 838,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01068"
   },
   {
     "id": 69,
     "name": "Tank Bag",
     "category": "Luggage & Storage",
     "price": 99.99,
-    "image": "assets/images/cat-luggage.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA tank bag selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.9,
-    "reviews": 849
+    "reviews": 849,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01069"
   },
   {
     "id": 70,
     "name": "Saddle Bags",
     "category": "Luggage & Storage",
     "price": 189.99,
-    "image": "assets/images/cat-luggage.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA saddle bags selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 860
+    "reviews": 860,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01070"
   },
   {
     "id": 71,
     "name": "Tail Bag",
     "category": "Luggage & Storage",
     "price": 129.99,
-    "image": "assets/images/cat-luggage.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA tail bag selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 871
+    "reviews": 871,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01071"
   },
   {
     "id": 72,
     "name": "Luggage Mount Kit",
     "category": "Luggage & Storage",
     "price": 119.99,
-    "image": "assets/images/cat-luggage.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA luggage mount kit selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 882
+    "reviews": 882,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01072"
   },
   {
     "id": 73,
     "name": "Chain Tool Kit",
     "category": "Maintenance Tools",
     "price": 69.99,
-    "image": "assets/images/cat-tools.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA chain tool kit selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.8,
-    "reviews": 893
+    "reviews": 893,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01073"
   },
   {
     "id": 74,
     "name": "Motorcycle Lift Stand",
     "category": "Maintenance Tools",
     "price": 179.99,
-    "image": "assets/images/cat-tools.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA motorcycle lift stand selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.9,
-    "reviews": 904
+    "reviews": 904,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01074"
   },
   {
     "id": 75,
     "name": "Torque Wrench",
     "category": "Maintenance Tools",
     "price": 89.99,
-    "image": "assets/images/cat-tools.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA torque wrench selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 915
+    "reviews": 915,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01075"
   },
   {
     "id": 76,
     "name": "Battery Charger",
     "category": "Maintenance Tools",
     "price": 79.99,
-    "image": "assets/images/cat-tools.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA battery charger selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 926
+    "reviews": 926,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01076"
   },
   {
     "id": 77,
     "name": "Oil Drain Pan",
     "category": "Maintenance Tools",
     "price": 29.99,
-    "image": "assets/images/cat-tools.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA oil drain pan selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 937
+    "reviews": 937,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01077"
   },
   {
     "id": 78,
     "name": "Workshop Tool Set",
     "category": "Maintenance Tools",
     "price": 249.99,
-    "image": "assets/images/cat-tools.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA workshop tool set selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.8,
-    "reviews": 948
+    "reviews": 948,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01078"
   },
   {
     "id": 79,
     "name": "Valve Adjustment Kit",
     "category": "Maintenance Tools",
     "price": 99.99,
-    "image": "assets/images/cat-tools.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA valve adjustment kit selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.9,
-    "reviews": 959
+    "reviews": 959,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01079"
   },
   {
     "id": 80,
     "name": "Phone Mount Pro",
     "category": "Accessories",
     "price": 49.99,
-    "image": "assets/images/cat-controls.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA phone mount pro selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 970
+    "reviews": 970,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01080"
   },
   {
     "id": 81,
     "name": "USB Handlebar Mount",
     "category": "Accessories",
     "price": 39.99,
-    "image": "assets/images/cat-controls.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA usb handlebar mount selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 981
+    "reviews": 981,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01081"
   },
   {
     "id": 82,
     "name": "Keyless Alarm Disc Lock",
     "category": "Accessories",
     "price": 59.99,
-    "image": "assets/images/cat-controls.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA keyless alarm disc lock selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 992
+    "reviews": 992,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01082"
   },
   {
     "id": 83,
     "name": "Motorcycle Cover",
     "category": "Accessories",
     "price": 69.99,
-    "image": "assets/images/cat-controls.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA motorcycle cover selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.8,
-    "reviews": 1003
+    "reviews": 1003,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01083"
   },
   {
     "id": 84,
     "name": "Tank Ring Mount",
     "category": "Accessories",
     "price": 44.99,
-    "image": "assets/images/cat-controls.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA tank ring mount selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.9,
-    "reviews": 1014
+    "reviews": 1014,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01084"
   },
   {
     "id": 85,
     "name": "Helmet Lock",
     "category": "Accessories",
     "price": 29.99,
-    "image": "assets/images/cat-controls.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA helmet lock selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 1025
+    "reviews": 1025,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01085"
   },
   {
     "id": 86,
     "name": "Reflective Decal Kit",
     "category": "Accessories",
     "price": 24.99,
-    "image": "assets/images/cat-controls.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA reflective decal kit selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 1036
+    "reviews": 1036,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01086"
   },
   {
     "id": 87,
     "name": "Tall Touring Windshield",
     "category": "Touring",
     "price": 189.99,
-    "image": "assets/images/cat-luggage.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA tall touring windshield selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 1047
+    "reviews": 1047,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01087"
   },
   {
     "id": 88,
     "name": "Heated Grip Set",
     "category": "Touring",
     "price": 129.99,
-    "image": "assets/images/cat-luggage.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA heated grip set selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.8,
-    "reviews": 1058
+    "reviews": 1058,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01088"
   },
   {
     "id": 89,
     "name": "12V Accessory Socket",
     "category": "Touring",
     "price": 39.99,
-    "image": "assets/images/cat-luggage.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA 12v accessory socket selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.9,
-    "reviews": 1069
+    "reviews": 1069,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01089"
   },
   {
     "id": 90,
     "name": "Passenger Backrest",
     "category": "Touring",
     "price": 179.99,
-    "image": "assets/images/cat-luggage.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA passenger backrest selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 1080
+    "reviews": 1080,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01090"
   },
   {
     "id": 91,
     "name": "Cruise Control Assist",
     "category": "Touring",
     "price": 79.99,
-    "image": "assets/images/cat-luggage.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA cruise control assist selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 1091
+    "reviews": 1091,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01091"
   },
   {
     "id": 92,
     "name": "Quick Shifter",
     "category": "Performance",
     "price": 349.99,
-    "image": "assets/images/prod-3.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA quick shifter selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 1102
+    "reviews": 1102,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01092"
   },
   {
     "id": 93,
     "name": "ECU Flash Module",
     "category": "Performance",
     "price": 299.99,
-    "image": "assets/images/prod-3.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA ecu flash module selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.8,
-    "reviews": 1113
+    "reviews": 1113,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01093"
   },
   {
     "id": 94,
     "name": "High Flow Air Intake",
     "category": "Performance",
     "price": 219.99,
-    "image": "assets/images/prod-3.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA high flow air intake selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.9,
-    "reviews": 1124
+    "reviews": 1124,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01094"
   },
   {
     "id": 95,
     "name": "Performance Rearsets",
     "category": "Performance",
     "price": 299.99,
-    "image": "assets/images/prod-3.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA performance rearsets selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.5,
-    "reviews": 1135
+    "reviews": 1135,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01095"
   },
   {
     "id": 96,
     "name": "Lightweight Battery",
     "category": "Performance",
     "price": 189.99,
-    "image": "assets/images/prod-3.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA lightweight battery selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.6,
-    "reviews": 1146
+    "reviews": 1146,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01096"
   },
   {
     "id": 97,
     "name": "Steering Damper Pro",
     "category": "Performance",
     "price": 329.99,
-    "image": "assets/images/prod-3.jpg",
+    "image": "assets/images/pro-accessories.jpg",
     "description": "MOTRIVA steering damper pro selected for motorcycle maintenance, replacement, or customization.",
     "rating": 4.7,
-    "reviews": 1157
+    "reviews": 1157,
+    "fitment": "Check Year / Make / Model",
+    "sku": "MTR-01097"
+  },
+  {
+    "id": 98,
+    "name": "VORTEX 6-Piston Front Brake Caliper",
+    "category": "Brakes",
+    "price": 459.99,
+    "image": "assets/images/pro-brakes.jpg",
+    "description": "Professional-grade MOTRIVA brakes component for riders and workshop builds.",
+    "rating": 4.8,
+    "reviews": 784,
+    "fitment": "Universal performance fit - verify mount spacing",
+    "sku": "MTR-01098"
+  },
+  {
+    "id": 99,
+    "name": "MOTRIVA Stainless Braided Brake Line Kit",
+    "category": "Brakes",
+    "price": 109.99,
+    "image": "assets/images/pro-brakes.jpg",
+    "description": "Professional-grade MOTRIVA brakes component for riders and workshop builds.",
+    "rating": 4.9,
+    "reviews": 791,
+    "fitment": "Model-specific kit - verify application",
+    "sku": "MTR-01099"
+  },
+  {
+    "id": 100,
+    "name": "Floating Front Brake Rotor 320mm",
+    "category": "Brakes",
+    "price": 189.99,
+    "image": "assets/images/pro-brakes.jpg",
+    "description": "Professional-grade MOTRIVA brakes component for riders and workshop builds.",
+    "rating": 4.5,
+    "reviews": 798,
+    "fitment": "Verify rotor diameter and bolt pattern",
+    "sku": "MTR-01100"
+  },
+  {
+    "id": 101,
+    "name": "Street Performance Rear Brake Pads",
+    "category": "Brakes",
+    "price": 49.99,
+    "image": "assets/images/pro-brakes.jpg",
+    "description": "Professional-grade MOTRIVA brakes component for riders and workshop builds.",
+    "rating": 4.6,
+    "reviews": 805,
+    "fitment": "Model-specific",
+    "sku": "MTR-01101"
+  },
+  {
+    "id": 102,
+    "name": "Adjustable Steering Damper",
+    "category": "Suspension",
+    "price": 329.99,
+    "image": "assets/images/pro-suspension.jpg",
+    "description": "Professional-grade MOTRIVA suspension component for riders and workshop builds.",
+    "rating": 4.7,
+    "reviews": 812,
+    "fitment": "Check frame mounting compatibility",
+    "sku": "MTR-01102"
+  },
+  {
+    "id": 103,
+    "name": "Rear Monoshock Performance Series",
+    "category": "Suspension",
+    "price": 699.99,
+    "image": "assets/images/pro-suspension.jpg",
+    "description": "Professional-grade MOTRIVA suspension component for riders and workshop builds.",
+    "rating": 4.8,
+    "reviews": 819,
+    "fitment": "Model-specific",
+    "sku": "MTR-01103"
+  },
+  {
+    "id": 104,
+    "name": "Fork Seal & Bushing Service Kit",
+    "category": "Suspension",
+    "price": 89.99,
+    "image": "assets/images/pro-suspension.jpg",
+    "description": "Professional-grade MOTRIVA suspension component for riders and workshop builds.",
+    "rating": 4.9,
+    "reviews": 826,
+    "fitment": "Verify fork diameter",
+    "sku": "MTR-01104"
+  },
+  {
+    "id": 105,
+    "name": "Slip-On Performance Exhaust",
+    "category": "Exhaust",
+    "price": 699.99,
+    "image": "assets/images/pro-exhaust.jpg",
+    "description": "Professional-grade MOTRIVA exhaust component for riders and workshop builds.",
+    "rating": 4.5,
+    "reviews": 833,
+    "fitment": "Check exhaust flange / model",
+    "sku": "MTR-01105"
+  },
+  {
+    "id": 106,
+    "name": "Carbon Fiber Muffler Heat Shield",
+    "category": "Exhaust",
+    "price": 139.99,
+    "image": "assets/images/pro-exhaust.jpg",
+    "description": "Professional-grade MOTRIVA exhaust component for riders and workshop builds.",
+    "rating": 4.6,
+    "reviews": 840,
+    "fitment": "Universal accessory - verify fit",
+    "sku": "MTR-01106"
+  },
+  {
+    "id": 107,
+    "name": "520 Heavy-Duty Chain & Sprocket Kit",
+    "category": "Drivetrain",
+    "price": 169.99,
+    "image": "assets/images/pro-chain.jpg",
+    "description": "Professional-grade MOTRIVA drivetrain component for riders and workshop builds.",
+    "rating": 4.7,
+    "reviews": 847,
+    "fitment": "Verify tooth count and chain length",
+    "sku": "MTR-01107"
+  },
+  {
+    "id": 108,
+    "name": "Quick-Change Rear Sprocket Carrier",
+    "category": "Drivetrain",
+    "price": 249.99,
+    "image": "assets/images/pro-chain.jpg",
+    "description": "Professional-grade MOTRIVA drivetrain component for riders and workshop builds.",
+    "rating": 4.8,
+    "reviews": 854,
+    "fitment": "Check hub compatibility",
+    "sku": "MTR-01108"
+  },
+  {
+    "id": 109,
+    "name": "Lithium Motorcycle Battery 12V",
+    "category": "Electrical",
+    "price": 159.99,
+    "image": "assets/images/pro-electrical.jpg",
+    "description": "Professional-grade MOTRIVA electrical component for riders and workshop builds.",
+    "rating": 4.9,
+    "reviews": 861,
+    "fitment": "Verify battery dimensions & terminals",
+    "sku": "MTR-01109"
+  },
+  {
+    "id": 110,
+    "name": "Sequential LED Turn Signal Set",
+    "category": "Electrical",
+    "price": 79.99,
+    "image": "assets/images/pro-electrical.jpg",
+    "description": "Professional-grade MOTRIVA electrical component for riders and workshop builds.",
+    "rating": 4.5,
+    "reviews": 868,
+    "fitment": "12V motorcycle systems",
+    "sku": "MTR-01110"
+  },
+  {
+    "id": 111,
+    "name": "LED Projector Headlight Upgrade",
+    "category": "Electrical",
+    "price": 189.99,
+    "image": "assets/images/pro-electrical.jpg",
+    "description": "Professional-grade MOTRIVA electrical component for riders and workshop builds.",
+    "rating": 4.6,
+    "reviews": 875,
+    "fitment": "Verify housing dimensions",
+    "sku": "MTR-01111"
+  },
+  {
+    "id": 112,
+    "name": "Adjustable Shorty Brake & Clutch Levers",
+    "category": "Controls",
+    "price": 119.99,
+    "image": "assets/images/pro-controls.jpg",
+    "description": "Professional-grade MOTRIVA controls component for riders and workshop builds.",
+    "rating": 4.7,
+    "reviews": 882,
+    "fitment": "Verify pivot/application",
+    "sku": "MTR-01112"
+  },
+  {
+    "id": 113,
+    "name": "CNC Bar-End Mirror Set",
+    "category": "Controls",
+    "price": 89.99,
+    "image": "assets/images/pro-controls.jpg",
+    "description": "Professional-grade MOTRIVA controls component for riders and workshop builds.",
+    "rating": 4.8,
+    "reviews": 889,
+    "fitment": "Check handlebar inner diameter",
+    "sku": "MTR-01113"
+  },
+  {
+    "id": 114,
+    "name": "Pro Taper Style Aluminum Handlebar",
+    "category": "Controls",
+    "price": 109.99,
+    "image": "assets/images/pro-controls.jpg",
+    "description": "Professional-grade MOTRIVA controls component for riders and workshop builds.",
+    "rating": 4.9,
+    "reviews": 896,
+    "fitment": "Verify rise / clamp size",
+    "sku": "MTR-01114"
+  },
+  {
+    "id": 115,
+    "name": "Sport Touring Tire Front 120/70ZR17",
+    "category": "Wheels",
+    "price": 179.99,
+    "image": "assets/images/pro-wheels.jpg",
+    "description": "Professional-grade MOTRIVA wheels component for riders and workshop builds.",
+    "rating": 4.5,
+    "reviews": 903,
+    "fitment": "Choose exact tire size for your bike",
+    "sku": "MTR-01115"
+  },
+  {
+    "id": 116,
+    "name": "Sport Touring Tire Rear 180/55ZR17",
+    "category": "Wheels",
+    "price": 219.99,
+    "image": "assets/images/pro-wheels.jpg",
+    "description": "Professional-grade MOTRIVA wheels component for riders and workshop builds.",
+    "rating": 4.6,
+    "reviews": 910,
+    "fitment": "Choose exact tire size for your bike",
+    "sku": "MTR-01116"
+  },
+  {
+    "id": 117,
+    "name": "Black Alloy Wheel Spool Set",
+    "category": "Wheels",
+    "price": 44.99,
+    "image": "assets/images/pro-wheels.jpg",
+    "description": "Professional-grade MOTRIVA wheels component for riders and workshop builds.",
+    "rating": 4.7,
+    "reviews": 917,
+    "fitment": "Verify swingarm thread",
+    "sku": "MTR-01117"
+  },
+  {
+    "id": 118,
+    "name": "Carbon Look Upper Fairing Kit",
+    "category": "Bodywork",
+    "price": 449.99,
+    "image": "assets/images/pro-body.jpg",
+    "description": "Professional-grade MOTRIVA bodywork component for riders and workshop builds.",
+    "rating": 4.8,
+    "reviews": 924,
+    "fitment": "Model-specific fitment",
+    "sku": "MTR-01118"
+  },
+  {
+    "id": 119,
+    "name": "Universal Windscreen Touring",
+    "category": "Bodywork",
+    "price": 129.99,
+    "image": "assets/images/pro-body.jpg",
+    "description": "Professional-grade MOTRIVA bodywork component for riders and workshop builds.",
+    "rating": 4.9,
+    "reviews": 931,
+    "fitment": "Verify mounting points",
+    "sku": "MTR-01119"
+  },
+  {
+    "id": 120,
+    "name": "Comfort Touring Seat Cover",
+    "category": "Seats",
+    "price": 119.99,
+    "image": "assets/images/pro-seat.jpg",
+    "description": "Professional-grade MOTRIVA seats component for riders and workshop builds.",
+    "rating": 4.5,
+    "reviews": 938,
+    "fitment": "Check seat generation",
+    "sku": "MTR-01120"
+  },
+  {
+    "id": 121,
+    "name": "Expandable Tail Bag 30L",
+    "category": "Luggage",
+    "price": 149.99,
+    "image": "assets/images/pro-luggage.jpg",
+    "description": "Professional-grade MOTRIVA luggage component for riders and workshop builds.",
+    "rating": 4.6,
+    "reviews": 945,
+    "fitment": "Universal mounting straps",
+    "sku": "MTR-01121"
+  },
+  {
+    "id": 122,
+    "name": "Aluminum Side Case Mount Kit",
+    "category": "Luggage",
+    "price": 229.99,
+    "image": "assets/images/pro-luggage.jpg",
+    "description": "Professional-grade MOTRIVA luggage component for riders and workshop builds.",
+    "rating": 4.7,
+    "reviews": 952,
+    "fitment": "Verify rack compatibility",
+    "sku": "MTR-01122"
+  },
+  {
+    "id": 123,
+    "name": "Premium Chain Cleaning Kit",
+    "category": "Maintenance",
+    "price": 39.99,
+    "image": "assets/images/pro-maintenance.jpg",
+    "description": "Professional-grade MOTRIVA maintenance component for riders and workshop builds.",
+    "rating": 4.8,
+    "reviews": 959,
+    "fitment": "Workshop maintenance",
+    "sku": "MTR-01123"
+  },
+  {
+    "id": 124,
+    "name": "Digital Tire Pressure Gauge",
+    "category": "Maintenance",
+    "price": 29.99,
+    "image": "assets/images/pro-maintenance.jpg",
+    "description": "Professional-grade MOTRIVA maintenance component for riders and workshop builds.",
+    "rating": 4.9,
+    "reviews": 966,
+    "fitment": "Workshop tool",
+    "sku": "MTR-01124"
+  },
+  {
+    "id": 125,
+    "name": "Portable Battery Maintainer",
+    "category": "Maintenance",
+    "price": 49.99,
+    "image": "assets/images/pro-maintenance.jpg",
+    "description": "Professional-grade MOTRIVA maintenance component for riders and workshop builds.",
+    "rating": 4.5,
+    "reviews": 973,
+    "fitment": "12V motorcycle systems",
+    "sku": "MTR-01125"
+  },
+  {
+    "id": 126,
+    "name": "High-Flow Performance Air Filter",
+    "category": "Engine",
+    "price": 69.99,
+    "image": "assets/images/pro-engine.jpg",
+    "description": "Professional-grade MOTRIVA engine component for riders and workshop builds.",
+    "rating": 4.6,
+    "reviews": 980,
+    "fitment": "Verify filter shape/application",
+    "sku": "MTR-01126"
+  },
+  {
+    "id": 127,
+    "name": "Oil Filter Performance Series",
+    "category": "Engine",
+    "price": 16.99,
+    "image": "assets/images/pro-engine.jpg",
+    "description": "Professional-grade MOTRIVA engine component for riders and workshop builds.",
+    "rating": 4.7,
+    "reviews": 987,
+    "fitment": "Verify part number",
+    "sku": "MTR-01127"
+  },
+  {
+    "id": 128,
+    "name": "Spark Plug Set - Twin Cylinder",
+    "category": "Engine",
+    "price": 29.99,
+    "image": "assets/images/pro-engine.jpg",
+    "description": "Professional-grade MOTRIVA engine component for riders and workshop builds.",
+    "rating": 4.8,
+    "reviews": 994,
+    "fitment": "Verify heat range / application",
+    "sku": "MTR-01128"
+  },
+  {
+    "id": 129,
+    "name": "Fork Mount Transport Stand",
+    "category": "Accessories",
+    "price": 119.99,
+    "image": "assets/images/pro-accessories.jpg",
+    "description": "Professional-grade MOTRIVA accessories component for riders and workshop builds.",
+    "rating": 4.9,
+    "reviews": 1001,
+    "fitment": "Verify axle / stand compatibility",
+    "sku": "MTR-01129"
+  },
+  {
+    "id": 130,
+    "name": "Waterproof USB-C Motorcycle Charger",
+    "category": "Accessories",
+    "price": 39.99,
+    "image": "assets/images/pro-accessories.jpg",
+    "description": "Professional-grade MOTRIVA accessories component for riders and workshop builds.",
+    "rating": 4.5,
+    "reviews": 1008,
+    "fitment": "12V accessory circuit",
+    "sku": "MTR-01130"
+  },
+  {
+    "id": 131,
+    "name": "Aluminum Rearset Foot Control Kit",
+    "category": "Controls",
+    "price": 299.99,
+    "image": "assets/images/pro-controls.jpg",
+    "description": "Professional-grade MOTRIVA controls component for riders and workshop builds.",
+    "rating": 4.6,
+    "reviews": 1015,
+    "fitment": "Model-specific",
+    "sku": "MTR-01131"
+  },
+  {
+    "id": 132,
+    "name": "Engine Case Guard Set",
+    "category": "Engine",
+    "price": 129.99,
+    "image": "assets/images/pro-engine.jpg",
+    "description": "Professional-grade MOTRIVA engine component for riders and workshop builds.",
+    "rating": 4.7,
+    "reviews": 1022,
+    "fitment": "Verify mounting points",
+    "sku": "MTR-01132"
+  },
+  {
+    "id": 133,
+    "name": "Radiator Guard - Black Aluminum",
+    "category": "Engine",
+    "price": 119.99,
+    "image": "assets/images/pro-engine.jpg",
+    "description": "Professional-grade MOTRIVA engine component for riders and workshop builds.",
+    "rating": 4.8,
+    "reviews": 1029,
+    "fitment": "Model-specific",
+    "sku": "MTR-01133"
   }
 ]

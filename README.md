@@ -2,30 +2,37 @@
 
 **Ride. Upgrade. Dominate.**
 
-Premium motorcycle parts storefront with 98 demo products across 15 categories, including engine parts, brakes, suspension, exhaust, drivetrain, electrical, controls, wheels, bodywork, luggage, maintenance and performance.
+A premium motorcycle parts storefront for brakes, suspension, drivetrain, exhaust, electrical, controls, wheels & tires, bodywork, luggage, maintenance and rider accessories.
 
-## Features
-- Black, red and gunmetal premium design
-- Local image assets bundled with the site
-- Search, filters and sorting
-- Product detail pages
-- Shopping cart and wishlist using localStorage for demo behavior
+## Highlights
+- Black, red, gunmetal and racing-inspired visual system
+- 134 products across a broad motorcycle-parts catalog
+- Year / Make / Model fitment UI
+- Search, filtering and sorting
+- Product detail pages with fitment notes, SKU, availability and support
+- Cart and wishlist demo behavior using localStorage
 - Collections, deals and new arrivals
-- Support, shipping, returns and FAQ pages
-- Responsive desktop/mobile design
+- Shipping, returns, FAQ and customer support pages
+- Core product imagery stored locally inside `assets/images/`
+- Responsive desktop and mobile layouts
 - GitHub Pages ready
 
 ## Support
 Email: support@motrivamotoparts.com
-Phone: +1 (800) 555-0186
+Phone: +1 (800) 555-0123
 Hours: Monday–Friday, 9:00 AM–6:00 PM
 
 The phone number is a demo/example contact and should be replaced before commercial launch.
 
 ## GitHub Pages
+Expected URL:
 https://ua-tn.github.io/motriva-moto-parts/
 
-Enable: Settings → Pages → Deploy from a branch → main → / (root)
+Enable:
+Settings → Pages → Deploy from a branch → main → / (root)
 
-## Notes
-Product names, prices, ratings and reviews are demonstration content. Motorcycle fitment should be verified by year, make, model and configuration before purchase or installation.
+## Fitment Note
+Fitment text in this demo is informational and should not be treated as a guarantee. Always verify year, make, model, engine configuration and manufacturer specifications before purchasing or installing a part.
+
+## Asset Note
+The storefront's main visual assets are bundled locally rather than loaded from external image URLs.
