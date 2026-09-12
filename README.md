@@ -36,3 +36,7 @@ Fitment text in this demo is informational and should not be treated as a guaran
 
 ## Asset Note
 The storefront's main visual assets are bundled locally rather than loaded from external image URLs.
+
+
+## V3 Visual Fix
+The product catalog and product-detail views use cleaner, locally bundled product photography with consistent contain-style presentation to avoid cropped banner screenshots, text fragments, and missing product images.
